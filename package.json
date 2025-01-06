@@ -15,5 +15,6 @@
     "node-fetch": "2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": "github.com/Jair3008/shopify-getAutorizationToken.git"
 }
